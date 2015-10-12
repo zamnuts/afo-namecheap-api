@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiResponse xmlns="http://api.namecheap.com/xml.response" Status="OK">
+    <Errors />
+    <RequestedCommand>namecheap.domains.setContacts</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.setContacts">
+        <DomainSetContactResult Domain="domain1.com" IsSuccess="true" />
+    </CommandResponse>
+    <Server>SERVER-NAME</Server>
+    <GMTTimeDifference>+5</GMTTimeDifference>
+    <ExecutionTime>0.078</ExecutionTime>
+</ApiResponse>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="3031510">The original IP and new IP are the same. Please specify a new IP</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.ns.update</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.ns.update">
+        <DomainNSUpdateResult Domain="domain1.com" Nameserver="" IsSuccess="false" ErrorNo="" Description="" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.406</ExecutionTime>
+</ApiResponse>

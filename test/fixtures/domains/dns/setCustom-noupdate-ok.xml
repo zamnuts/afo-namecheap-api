@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="2011168">Two nameservers are required</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.dns.setCustom</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.dns.setCustom">
+        <DomainDNSSetCustomResult Domain="" Updated="" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.017</ExecutionTime>
+</ApiResponse>

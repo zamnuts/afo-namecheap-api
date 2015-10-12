@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="2019166">Domain name not available</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.renew</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.renew">
+        <DomainRenewResult DomainID="0" OrderID="0" TransactionID="0" ChargedAmount="0" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.01</ExecutionTime>
+</ApiResponse>

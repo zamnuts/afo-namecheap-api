@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="OK" xmlns="http://api.namecheap.com/xml.response">
+    <Errors />
+    <Warnings />
+    <RequestedCommand>namecheap.domains.getContacts</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.getContacts">
+        <DomainContactsResult Domain="domain1.com" domainnameid="86374">
+            <Registrant ReadOnly="false">
+                <OrganizationName />
+                <JobTitle />
+                <FirstName>Ricky</FirstName>
+                <LastName>Bobby</LastName>
+                <Address1>123 Sesame St.</Address1>
+                <Address2 />
+                <City>New York</City>
+                <StateProvince>New York</StateProvince>
+                <StateProvinceChoice>State</StateProvinceChoice>
+                <PostalCode>10023</PostalCode>
+                <Country>US</Country>
+                <Phone>+1.2125551234</Phone>
+                <Fax />
+                <EmailAddress>ricky@example.com</EmailAddress>
+                <PhoneExt />
+            </Registrant>
+            <Tech ReadOnly="false">
+                <OrganizationName />
+                <JobTitle />
+                <FirstName>Ricky</FirstName>
+                <LastName>Bobby</LastName>
+                <Address1>123 Sesame St.</Address1>
+                <Address2 />
+                <City>New York</City>
+                <StateProvince>New York</StateProvince>
+                <StateProvinceChoice>State</StateProvinceChoice>
+                <PostalCode>10023</PostalCode>
+                <Country>US</Country>
+                <Phone>+1.2125551234</Phone>
+                <Fax />
+                <EmailAddress>ricky@example.com</EmailAddress>
+                <PhoneExt />
+            </Tech>
+            <Admin ReadOnly="false">
+                <OrganizationName />
+                <JobTitle />
+                <FirstName>Ricky</FirstName>
+                <LastName>Bobby</LastName>
+                <Address1>123 Sesame St.</Address1>
+                <Address2 />
+                <City>New York</City>
+                <StateProvince>New York</StateProvince>
+                <StateProvinceChoice>State</StateProvinceChoice>
+                <PostalCode>10023</PostalCode>
+                <Country>US</Country>
+                <Phone>+1.2125551234</Phone>
+                <Fax />
+                <EmailAddress>ricky@example.com</EmailAddress>
+                <PhoneExt />
+            </Admin>
+            <AuxBilling ReadOnly="false">
+                <OrganizationName />
+                <JobTitle />
+                <FirstName>Ricky</FirstName>
+                <LastName>Bobby</LastName>
+                <Address1>123 Sesame St.</Address1>
+                <Address2 />
+                <City>New York</City>
+                <StateProvince>New York</StateProvince>
+                <StateProvinceChoice>State</StateProvinceChoice>
+                <PostalCode>10023</PostalCode>
+                <Country>US</Country>
+                <Phone>+1.2125551234</Phone>
+                <Fax />
+                <EmailAddress>ricky@example.com</EmailAddress>
+                <PhoneExt />
+            </AuxBilling>
+            <CurrentAttributes />
+            <WhoisGuardContact>
+                <Registrant ReadOnly="true">
+                    <OrganizationName>WhoisGuard</OrganizationName>
+                    <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+                    <FirstName>WhoisGuard</FirstName>
+                    <LastName>Protected</LastName>
+                    <Address1>8939 S. Sepulveda Blvd</Address1>
+                    <Address2>Suite 110-708</Address2>
+                    <City>Westchester</City>
+                    <StateProvince>CA</StateProvince>
+                    <StateProvinceChoice>S</StateProvinceChoice>
+                    <PostalCode>90045</PostalCode>
+                    <Country>US</Country>
+                    <Phone>+1.6613102107</Phone>
+                    <Fax>+1.6613102107</Fax>
+                    <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+                    <PhoneExt />
+                </Registrant>
+                <Tech ReadOnly="true">
+                    <OrganizationName>WhoisGuard</OrganizationName>
+                    <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+                    <FirstName>WhoisGuard</FirstName>
+                    <LastName>Protected</LastName>
+                    <Address1>8939 S. Sepulveda Blvd</Address1>
+                    <Address2>Suite 110-708</Address2>
+                    <City>Westchester</City>
+                    <StateProvince>CA</StateProvince>
+                    <StateProvinceChoice>S</StateProvinceChoice>
+                    <PostalCode>90045</PostalCode>
+                    <Country>US</Country>
+                    <Phone>+1.6613102107</Phone>
+                    <Fax>+1.6613102107</Fax>
+                    <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+                    <PhoneExt />
+                </Tech>
+                <Admin ReadOnly="true">
+                    <OrganizationName>WhoisGuard</OrganizationName>
+                    <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+                    <FirstName>WhoisGuard</FirstName>
+                    <LastName>Protected</LastName>
+                    <Address1>8939 S. Sepulveda Blvd</Address1>
+                    <Address2>Suite 110-708</Address2>
+                    <City>Westchester</City>
+                    <StateProvince>CA</StateProvince>
+                    <StateProvinceChoice>S</StateProvinceChoice>
+                    <PostalCode>90045</PostalCode>
+                    <Country>US</Country>
+                    <Phone>+1.6613102107</Phone>
+                    <Fax>+1.6613102107</Fax>
+                    <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+                    <PhoneExt />
+                </Admin>
+                <AuxBilling ReadOnly="true">
+                    <OrganizationName>WhoisGuard</OrganizationName>
+                    <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+                    <FirstName>WhoisGuard</FirstName>
+                    <LastName>Protected</LastName>
+                    <Address1>8939 S. Sepulveda Blvd</Address1>
+                    <Address2>Suite 110-708</Address2>
+                    <City>Westchester</City>
+                    <StateProvince>CA</StateProvince>
+                    <StateProvinceChoice>S</StateProvinceChoice>
+                    <PostalCode>90045</PostalCode>
+                    <Country>US</Country>
+                    <Phone>+1.6613102107</Phone>
+                    <Fax>+1.6613102107</Fax>
+                    <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+                    <PhoneExt />
+                </AuxBilling>
+            </WhoisGuardContact>
+        </DomainContactsResult>
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.543</ExecutionTime>
+</ApiResponse>

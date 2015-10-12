@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <RegPartial>
+        <Registrant ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </Registrant>
+        <Tech ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </Tech>
+        <Admin ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </Admin>
+        <AuxBilling ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </AuxBilling>
+        <Billing ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </Billing>
+    </RegPartial>
+    <WGFull>
+        <Registrant ReadOnly="true">
+            <OrganizationName>WhoisGuard</OrganizationName>
+            <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+            <FirstName>WhoisGuard</FirstName>
+            <LastName>Protected</LastName>
+            <Address1>8939 S. Sepulveda Blvd</Address1>
+            <Address2>Suite 110-708</Address2>
+            <City>Westchester</City>
+            <StateProvince>CA</StateProvince>
+            <StateProvinceChoice>S</StateProvinceChoice>
+            <PostalCode>90045</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.6613102107</Phone>
+            <Fax>+1.6613102107</Fax>
+            <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+            <PhoneExt>x123</PhoneExt>
+        </Registrant>
+        <Tech ReadOnly="true">
+            <OrganizationName>WhoisGuard</OrganizationName>
+            <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+            <FirstName>WhoisGuard</FirstName>
+            <LastName>Protected</LastName>
+            <Address1>8939 S. Sepulveda Blvd</Address1>
+            <Address2>Suite 110-708</Address2>
+            <City>Westchester</City>
+            <StateProvince>CA</StateProvince>
+            <StateProvinceChoice>S</StateProvinceChoice>
+            <PostalCode>90045</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.6613102107</Phone>
+            <Fax>+1.6613102107</Fax>
+            <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+            <PhoneExt>x123</PhoneExt>
+        </Tech>
+        <Admin ReadOnly="true">
+            <OrganizationName>WhoisGuard</OrganizationName>
+            <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+            <FirstName>WhoisGuard</FirstName>
+            <LastName>Protected</LastName>
+            <Address1>8939 S. Sepulveda Blvd</Address1>
+            <Address2>Suite 110-708</Address2>
+            <City>Westchester</City>
+            <StateProvince>CA</StateProvince>
+            <StateProvinceChoice>S</StateProvinceChoice>
+            <PostalCode>90045</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.6613102107</Phone>
+            <Fax>+1.6613102107</Fax>
+            <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+            <PhoneExt>x123</PhoneExt>
+        </Admin>
+        <AuxBilling ReadOnly="true">
+            <OrganizationName>WhoisGuard</OrganizationName>
+            <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+            <FirstName>WhoisGuard</FirstName>
+            <LastName>Protected</LastName>
+            <Address1>8939 S. Sepulveda Blvd</Address1>
+            <Address2>Suite 110-708</Address2>
+            <City>Westchester</City>
+            <StateProvince>CA</StateProvince>
+            <StateProvinceChoice>S</StateProvinceChoice>
+            <PostalCode>90045</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.6613102107</Phone>
+            <Fax>+1.6613102107</Fax>
+            <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+            <PhoneExt>x123</PhoneExt>
+        </AuxBilling>
+        <Billing ReadOnly="true">
+            <OrganizationName>WhoisGuard</OrganizationName>
+            <JobTitle>Please contact protect@whoisguard.com for legal issues</JobTitle>
+            <FirstName>WhoisGuard</FirstName>
+            <LastName>Protected</LastName>
+            <Address1>8939 S. Sepulveda Blvd</Address1>
+            <Address2>Suite 110-708</Address2>
+            <City>Westchester</City>
+            <StateProvince>CA</StateProvince>
+            <StateProvinceChoice>S</StateProvinceChoice>
+            <PostalCode>90045</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.6613102107</Phone>
+            <Fax>+1.6613102107</Fax>
+            <EmailAddress>bcbc3567ef3f443591a82cad0df33daa.protect@whoisguard.com</EmailAddress>
+            <PhoneExt>x123</PhoneExt>
+        </Billing>
+    </WGFull>
+    <Missing>
+        <Registrant ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName />
+            <LastName />
+            <Address1 />
+            <Address2 />
+            <City />
+            <StateProvince />
+            <StateProvinceChoice />
+            <PostalCode />
+            <Country />
+            <Phone />
+            <Fax />
+            <EmailAddress />
+            <PhoneExt />
+        </Registrant>
+        <Tech ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName />
+            <LastName />
+            <Address1 />
+            <Address2 />
+            <City />
+            <StateProvince />
+            <StateProvinceChoice />
+            <PostalCode />
+            <Country />
+            <Phone />
+            <Fax />
+            <EmailAddress />
+            <PhoneExt />
+        </Tech>
+        <Admin ReadOnly="false" />
+        <AuxBilling ReadOnly="false" />
+        <Billing ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName />
+            <LastName />
+            <Address1 />
+            <Address2 />
+            <City />
+            <StateProvince />
+            <StateProvinceChoice />
+            <PostalCode />
+            <Country />
+            <Phone />
+            <Fax />
+            <EmailAddress />
+            <PhoneExt />
+        </Billing>
+    </Missing>
+    <MissingAdmin>
+        <Registrant ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </Registrant>
+        <Tech ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </Tech>
+        <Admin ReadOnly="false" />
+        <AuxBilling ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </AuxBilling>
+        <Billing ReadOnly="false">
+            <OrganizationName />
+            <JobTitle />
+            <FirstName>Ricky</FirstName>
+            <LastName>Bobby</LastName>
+            <Address1>123 Sesame St.</Address1>
+            <Address2 />
+            <City>New York</City>
+            <StateProvince>New York</StateProvince>
+            <StateProvinceChoice />
+            <PostalCode>10023</PostalCode>
+            <Country>US</Country>
+            <Phone>+1.2125551234</Phone>
+            <Fax />
+            <EmailAddress>ricky@example.com</EmailAddress>
+            <PhoneExt />
+        </Billing>
+    </MissingAdmin>
+</root>

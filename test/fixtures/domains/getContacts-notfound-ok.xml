@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="2019166">Domain Name not found</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.getContacts</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.getContacts">
+        <DomainContactsResult Domain="" domainnameid="" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.012</ExecutionTime>
+</ApiResponse>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="2020166">Domain has not yet expired. Please renew your domain.</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.reActivate</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.reActivate">
+        <DomainReactivateResult Domain="" ChargedAmount="0" OrderID="0" TransactionID="0" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.035</ExecutionTime>
+</ApiResponse>

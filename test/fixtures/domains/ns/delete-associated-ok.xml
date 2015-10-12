@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="3031510">Nameserver registration failed due to error 533: Object association prohibits operation</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.ns.delete</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.ns.delete">
+        <DomainNSDeleteResult Domain="domain1.com" Nameserver="" IsSuccess="false" ErrorNo="" Description="" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.899</ExecutionTime>
+</ApiResponse>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="3031510">Error 545 - Name server does not exist</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.ns.getInfo</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.ns.getInfo">
+        <DomainNSInfoResult Domain="domain1.com" Nameserver="" ErrorNo="545" Description="Object does not exist">
+            <NameserverStatuses />
+        </DomainNSInfoResult>
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>0.788</ExecutionTime>
+</ApiResponse>

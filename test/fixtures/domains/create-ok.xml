@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="OK" xmlns="http://api.namecheap.com/xml.response">
+    <Errors />
+    <Warnings />
+    <RequestedCommand>namecheap.domains.create</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.create">
+        <DomainCreateResult Domain="domain1.com" Registered="true" ChargedAmount="10.8700"
+                            DomainID="86374" OrderID="719221" TransactionID="1075175"
+                            WhoisguardEnable="true" FreePositiveSSL="false" NonRealTimeDomain="false" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>7.882</ExecutionTime>
+</ApiResponse>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiResponse xmlns="http://api.namecheap.com/xml.response" Status="OK">
+    <Errors />
+    <RequestedCommand>namecheap.noop</RequestedCommand>
+    <CommandResponse Type="namecheap.noop">
+        <NoopResult Status="OK" Info="Hey there dev, noop is not an actual Namecheap API method!" />
+    </CommandResponse>
+    <Server>SERVER-NAME</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>32.76</ExecutionTime>
+</ApiResponse>

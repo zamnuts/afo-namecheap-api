@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApiResponse Status="OK">
+    <Errors />
+    <RequestedCommand>namecheap.domains.reActivate</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.reActivate">
+        <DomainReactivateResult Domain="domain1.com" IsSuccess="true" ChargedAmount="9.0100"
+                                OrderID="23569" TransactionID="25080" />
+    </CommandResponse>
+    <Server>SERVER-NAME</Server>
+    <GMTTimeDifference>+5:30</GMTTimeDifference>
+    <ExecutionTime>9.328</ExecutionTime>
+</ApiResponse>

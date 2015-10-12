@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="ERROR" xmlns="http://api.namecheap.com/xml.response">
+    <Errors>
+        <Error Number="3031510">Nameserver registration failed due to error: Parameter value policy error;IP address 0.0.0.0 is reserved</Error>
+    </Errors>
+    <Warnings />
+    <RequestedCommand>namecheap.domains.ns.create</RequestedCommand>
+    <CommandResponse Type="namecheap.domains.ns.create">
+        <DomainNSCreateResult Domain="domain1.com" Nameserver="" IsSuccess="false" ErrorNo="200" Description="Command completed successfully" />
+    </CommandResponse>
+    <Server>PHX01SBAPI01</Server>
+    <GMTTimeDifference>--4:00</GMTTimeDifference>
+    <ExecutionTime>1.256</ExecutionTime>
+</ApiResponse>
