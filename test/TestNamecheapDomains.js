@@ -677,6 +677,25 @@ describe('NamecheapDomains',function() {
 			});
 		});
 
+		it('should handle an empty list',function(done) {
+			nc._addRequestToQueue = function(ncr,cb) {
+				this._handleResponse(null,readXML('domains/getList-empty-ok'),cb);
+			}.bind(nc);
+			nc.domains.getList(function(err,result) {
+				asyncCheck(done,function() {
+					expect(err).to.be.not.ok();
+					expect(result).to.eql({
+						type: NamecheapDomains.LISTTYPE_DEFAULT,
+						page: 1,
+						pageSize: 20,
+						total: 0,
+						list: [],
+						success: true
+					});
+				});
+			});
+		});
+
 		it('should handle getting domain list error',function(done) {
 			nc._addRequestToQueue = function(ncr,cb) {
 				this._handleResponse(null,readXML('domains/getList-error-ok'),cb);
